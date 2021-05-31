@@ -1,0 +1,5 @@
+1nckd
+
+Create a new branch from master:
+make some changes in it.
+Push those changes to origin master
